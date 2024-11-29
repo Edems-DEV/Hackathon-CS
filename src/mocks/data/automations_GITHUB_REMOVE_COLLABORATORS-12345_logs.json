@@ -1,0 +1,29 @@
+[
+  {
+    "automation_id": "GITHUB_REMOVE_COLLABORATORS-12345",
+    "timestamp": "2023-11-12T12:31:56Z",
+    "level": "INFO",
+    "type": "GITHUB_REMOVE_COLLABORATORS",
+    "from_state": "INITIAL",
+    "to_state": "COMMAND_SENT",
+    "description": "Command to remove collaborators sent successfully"
+  },
+  {
+    "automation_id": "GITHUB_REMOVE_COLLABORATORS-12345",
+    "timestamp": "2023-11-12T12:34:56Z",
+    "level": "INFO",
+    "type": "GITHUB_REMOVE_COLLABORATORS",
+    "from_state": "INITIAL",
+    "to_state": "COMMAND_SENT",
+    "description": "Command to remove collaborators sent successfully"
+  },
+  {
+    "automation_id": "GITHUB_REMOVE_COLLABORATORS-12345",
+    "timestamp": "2024-11-19T21:05:00Z",
+    "level": "WARNING",
+    "type": "GITHUB_REMOVE_COLLABORATORS",
+    "from_state": "INITIAL",
+    "to_state": "COMMAND_SENT",
+    "description": "Collaborators removal command sent, waiting for response"
+  }
+]
